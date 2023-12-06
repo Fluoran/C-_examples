@@ -1,4 +1,6 @@
 ﻿
+//#pragma warning disable
+
 int count = 0,
     distance = 10000,
     firstFriendSpeed = 1,
@@ -6,6 +8,7 @@ int count = 0,
     dogSpeed = 5,
     friend = 2,
     time = 0;
+
 
 while (distance > 10)
 {
