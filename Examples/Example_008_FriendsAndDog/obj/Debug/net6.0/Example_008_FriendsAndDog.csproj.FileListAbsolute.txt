@@ -1,0 +1,15 @@
+D:\GeekBrains\C#\Examples\Examples\Example_008_FriendsAndDog\obj\Debug\net6.0\Example_008_FriendsAndDog.csproj.AssemblyReference.cache
+D:\GeekBrains\C#\Examples\Examples\Example_008_FriendsAndDog\obj\Debug\net6.0\Example_008_FriendsAndDog.GeneratedMSBuildEditorConfig.editorconfig
+D:\GeekBrains\C#\Examples\Examples\Example_008_FriendsAndDog\obj\Debug\net6.0\Example_008_FriendsAndDog.AssemblyInfoInputs.cache
+D:\GeekBrains\C#\Examples\Examples\Example_008_FriendsAndDog\obj\Debug\net6.0\Example_008_FriendsAndDog.AssemblyInfo.cs
+D:\GeekBrains\C#\Examples\Examples\Example_008_FriendsAndDog\obj\Debug\net6.0\Example_008_FriendsAndDog.csproj.CoreCompileInputs.cache
+D:\GeekBrains\C#\Examples\Examples\Example_008_FriendsAndDog\bin\Debug\net6.0\Example_008_FriendsAndDog.exe
+D:\GeekBrains\C#\Examples\Examples\Example_008_FriendsAndDog\bin\Debug\net6.0\Example_008_FriendsAndDog.deps.json
+D:\GeekBrains\C#\Examples\Examples\Example_008_FriendsAndDog\bin\Debug\net6.0\Example_008_FriendsAndDog.runtimeconfig.json
+D:\GeekBrains\C#\Examples\Examples\Example_008_FriendsAndDog\bin\Debug\net6.0\Example_008_FriendsAndDog.dll
+D:\GeekBrains\C#\Examples\Examples\Example_008_FriendsAndDog\bin\Debug\net6.0\Example_008_FriendsAndDog.pdb
+D:\GeekBrains\C#\Examples\Examples\Example_008_FriendsAndDog\obj\Debug\net6.0\Example_008_FriendsAndDog.dll
+D:\GeekBrains\C#\Examples\Examples\Example_008_FriendsAndDog\obj\Debug\net6.0\refint\Example_008_FriendsAndDog.dll
+D:\GeekBrains\C#\Examples\Examples\Example_008_FriendsAndDog\obj\Debug\net6.0\Example_008_FriendsAndDog.pdb
+D:\GeekBrains\C#\Examples\Examples\Example_008_FriendsAndDog\obj\Debug\net6.0\Example_008_FriendsAndDog.genruntimeconfig.cache
+D:\GeekBrains\C#\Examples\Examples\Example_008_FriendsAndDog\obj\Debug\net6.0\ref\Example_008_FriendsAndDog.dll
